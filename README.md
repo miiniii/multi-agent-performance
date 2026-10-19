@@ -1,2 +1,6 @@
 # multi-agent-performance
-Exploring AI multi-agent systems for backend performance diagnosis, context isolation, and evidence-based optimization.
+1. 에이전트는 어떤 기준으로 역할을 나누어야 할까?
+
+2. 에이전트 사이에서는 어떤 정보를 언제 공유하는 게 좋을까?
+
+3. 역할 분리와 문맥 공유가 정확도·비용·시간에 어떤 영향을 미칠까?
